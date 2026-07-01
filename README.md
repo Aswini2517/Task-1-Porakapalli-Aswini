@@ -12,11 +12,11 @@ The To-Do List is a simple python application that allows users to add and view 
 
 -view all tasks
 
-## Technologies used
+## Technologies Used
 
 -python3
 
-## Concepts used
+## Concepts Used
 -Lists
 
 -Loops
@@ -25,7 +25,8 @@ The To-Do List is a simple python application that allows users to add and view 
 
 -Conditional Statements
 
-# How to Run
+## How to Run
+
 1.Install python 3
 
 2.Download 'todo_list.py'
